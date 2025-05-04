@@ -1,2 +1,2 @@
 # cloudstorageplatform
-CloudStoragePlatform – storing, accessing, and managing files via the cloud.
+CloudStoragePlatform – storing, accessing, and managing files via Cloud.
